@@ -2,19 +2,15 @@
 
 <p align="center">
 <b>Universidad Tecnológica del Norte de Guanajuato (UTNG)</b><br>
-Tecnologías de la Información y Diseño Digital (ITID)<br>
-Grupo: GTIR236
+Grupo: GTIR246
 </p>
 
 | | |
 |---|---|
 | **Actividad** | Fundamentos de Python 1 en OpenEDG |
 | **Alumno** | Juan Antonio Salazar Mendez |
-| **Materia** | _(escribe aquí el nombre de la materia)_ |
-| **Profesor** | _(escribe aquí el nombre del profesor)_ |
-| **Plataforma** | OpenEDG / Edube Interactive |
-| **Modalidad** | Individual |
-| **Fecha de entrega** | _(escribe aquí la fecha)_ |
+| **Materia** | Programacion de redes |
+
 
 ---
 
@@ -36,13 +32,10 @@ El curso **Python Essentials 1** introduce los fundamentos de la programación c
 - **Módulo 3 – Booleanos, ejecución condicional, bucles, listas y operaciones lógicas:** comparaciones, `if / elif / else`, ciclos `while` y `for`, listas y operadores lógicos y de bits.
 - **Módulo 4 – Funciones, tuplas, diccionarios y excepciones:** definición y llamada de funciones, parámetros y alcance de variables, tuplas, diccionarios y manejo básico de errores.
 
-> Ajusta este texto con tus propias palabras si quieres personalizarlo.
-
----
 
 ## Evidencia de quizzes (My Progress)
 
-Captura de la sección **My Progress** con el perfil de usuario visible y el 100 % en los quizzes de los 4 módulos.
+
 
 ![evidencia 1](evidencias/evidencia-1.png)
 ![evidencia 2](evidencias/evidencia-2.png)
@@ -51,7 +44,7 @@ Captura de la sección **My Progress** con el perfil de usuario visible y el 100
 
 ## Evidencia de laboratorios
 
-Capturas de la ejecución correcta de los laboratorios de cada módulo, con el usuario visible.
+
 
 ![lab 1](laboratorios/lab-01.png)
 ![lab 2](laboratorios/lab-02.png)
@@ -76,7 +69,7 @@ Capturas de la ejecución correcta de los laboratorios de cada módulo, con el u
 
 ## Resúmenes escritos a mano
 
-Fotos de los resúmenes de los Módulos 1 a 4 (mínimo 2 cuartillas por módulo).
+
 
 ![resumen 1](resumenes/resumen-1.png)
 ![resumen 2](resumenes/resumen-2.png)
@@ -98,6 +91,6 @@ Python_Essentials_1_JuanSalazar/
 ├── evidencias/        # Capturas de My Progress (quizzes al 100 %)
 ├── laboratorios/      # Capturas de los laboratorios
 ├── resumenes/         # Fotos de los resúmenes a mano
-└── pdf_originales/    # PDFs originales de respaldo
+
 ```
 "# Python_Essentials_1_JuanAntonio_SalazarMendez" 
